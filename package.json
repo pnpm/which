@@ -1,11 +1,11 @@
 {
   "author": "GitHub Inc.",
-  "name": "which",
+  "name": "@pnpm/which",
   "description": "Like which(1) unix command. Find the first instance of an executable in the PATH.",
   "version": "3.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/node-which.git"
+    "url": "https://github.com/pnpm/which.git"
   },
   "main": "lib/index.js",
   "bin": {

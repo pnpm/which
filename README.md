@@ -1,4 +1,4 @@
-# which
+# @pnpm/which
 
 Like the unix `which` utility.
 
@@ -13,7 +13,7 @@ to avoid binary planting attacks.
 ## USAGE
 
 ```javascript
-const which = require('which')
+const which = require('@pnpm/which')
 
 // async usage
 // rejects if not found
